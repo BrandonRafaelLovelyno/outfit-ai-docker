@@ -5,9 +5,11 @@ This project consists of two services: a backend API and a frontend application.
 
     Backend: A Flask-based API for the Outfit AI service running on port 8000.
     Frontend: A React-based frontend application running on port 3000 and connected to the backend API.
+    
 ### Repositories
-    Backend    : https://github.com/BrandonRafaelLovelyno/outfit-ai-be.git
-    Frontend   : https://github.com/BrandonRafaelLovelyno/outfit-ai-fe
+    Backend: https://github.com/BrandonRafaelLovelyno/outfit-ai-be.git
+    Frontend: https://github.com/BrandonRafaelLovelyno/outfit-ai-fe
+    AI: https://github.com/BrandonRafaelLovelyno/outfit-ai-jupyter
 
 ## Prerequisites
 
